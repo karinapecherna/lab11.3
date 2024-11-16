@@ -1,0 +1,5 @@
+Lviv;Lutsk;1
+Chernihiv;Brovary;2
+Odesa;Lviv;3
+Ukraine ;Poland;4
+Germany;Canada;5
